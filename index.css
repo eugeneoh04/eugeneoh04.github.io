@@ -1,0 +1,19 @@
+body {
+    background-color:#FFC0CB;
+}
+.monitor {
+    position: fixed;
+    length: 100px;
+    top: 30%;
+    left: 5%;
+    margin-top: -150px;
+    margin-left: -10px;
+    overflow: scroll;
+    background-color: #f58295;
+}
+.terminal {
+    color: #050e61a4;
+}
+
+/* font: #87CEFA; */
+/* find a way to center monitor */
